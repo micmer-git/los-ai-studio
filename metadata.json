@@ -1,0 +1,5 @@
+{
+  "name": "League of Strava",
+  "description": "A gamified Strava dashboard tracking coins, medals, and athlete rankings with a modern, mobile-first interface.",
+  "requestFramePermissions": []
+}
